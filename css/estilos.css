@@ -1,0 +1,16 @@
+
+.mostrar{
+    display:block;
+}
+
+.ocultar{
+    display:none;
+}
+
+.resaltado{
+    background-color: lightblue;
+}
+
+.noresaltado{
+    background-color: none;
+}
